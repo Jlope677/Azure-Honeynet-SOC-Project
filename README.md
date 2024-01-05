@@ -46,8 +46,8 @@ Windows RDP/SMB Auth Failures
 ## Metrics Before Hardening / Security Controls
 
 The following table shows the metrics we measured in our insecure environment for 24 hours:
-Start Time 2023-12-30 18:41
-Stop Time 2023-12-31  18:41
+Start Time 2023-12-30 18:41:37
+Stop Time 2023-12-31  18:41:37
 
 | Metric                   | Count
 | ------------------------ | -----
@@ -64,8 +64,8 @@ Stop Time 2023-12-31  18:41
 ## Metrics After Hardening / Security Controls
 
 The following table shows the metrics we measured in our environment for another 24 hours, but after we have applied security controls:
-Start Time 2023-03-18 15:37
-Stop Time	2023-03-19 15:37
+Start Time 2024-1-3 7:36:46 
+Stop Time	2024-1-4  7:36:46
 
 | Metric                   | Count
 | ------------------------ | -----
