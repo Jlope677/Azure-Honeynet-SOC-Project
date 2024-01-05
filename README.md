@@ -1,5 +1,6 @@
 # Building a SOC + Honeynet in Azure (Live Traffic)
-![Cloud Honeynet / SOC](https://i.imgur.com/ZWxe03e.jpg)
+![Untitled drawing (1)](https://github.com/Jlope677/Azure-Honeynet-SOC-Project/assets/119469976/c1d85b09-2267-421d-b661-6b1e140d76a3)
+
 
 ## Introduction
 
@@ -38,7 +39,9 @@ NSG Malicious Allowed in
 Linux Syslog Auth Failures
 ![before linux-ssh-auth-fail](https://github.com/Jlope677/Azure-Honeynet-SOC-Project/assets/119469976/0f43ce45-7ae4-4fcd-927f-d1dfb98c1a15)
 <br>
-![Windows RDP/SMB Auth Failures](https://i.imgur.com/ESr9Dlv.png)<br>
+Windows RDP/SMB Auth Failures
+![before windows-rdp-auth](https://github.com/Jlope677/Azure-Honeynet-SOC-Project/assets/119469976/453f1777-ba74-4470-9e55-95f85dc27eb6)
+<br>
 
 ## Metrics Before Hardening / Security Controls
 
