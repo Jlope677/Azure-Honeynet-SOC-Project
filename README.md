@@ -46,16 +46,16 @@ Windows RDP/SMB Auth Failures
 ## Metrics Before Hardening / Security Controls
 
 The following table shows the metrics we measured in our insecure environment for 24 hours:
-Start Time 2023-03-15 17:04:29
-Stop Time 2023-03-16 17:04:29
+Start Time 2023-12-30 18:41
+Stop Time 2023-12-31  18:41
 
 | Metric                   | Count
 | ------------------------ | -----
-| SecurityEvent            | 19470
-| Syslog                   | 3028
-| SecurityAlert            | 10
-| SecurityIncident         | 348
-| AzureNetworkAnalytics_CL | 843
+| SecurityEvent            | 172875
+| Syslog                   | 6566
+| SecurityAlert            | 2
+| SecurityIncident         | 264
+| AzureNetworkAnalytics_CL | 67902
 
 ## Attack Maps Before Hardening / Security Controls
 
