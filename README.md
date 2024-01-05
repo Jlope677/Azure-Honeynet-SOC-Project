@@ -34,6 +34,7 @@ For the "BEFORE" metrics, all resources were originally deployed, exposed to the
 For the "AFTER" metrics, Network Security Groups were hardened by blocking ALL traffic with the exception of my admin workstation, and all other resources were protected by their built-in firewalls as well as Private Endpoint
 
 ## Attack Maps Before Hardening / Security Controls
+<br>
 NSG Malicious Allowed in
 ![before nsg-malicious-allowed-in](https://github.com/Jlope677/Azure-Honeynet-SOC-Project/assets/119469976/a9207d1a-2e22-48c7-8e2f-615edb6b5fe2)
 <br>
